@@ -2,7 +2,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Rookie Software Developer
 - 💼 Recruiting Coordinator @ Amazon
-- 🎓 Graduated from UNC Chapel Hill with B.A in communication
+- 🎓 Graduated from UNC-Chapel Hill with B.A in Communication Studies and Management & Society
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
